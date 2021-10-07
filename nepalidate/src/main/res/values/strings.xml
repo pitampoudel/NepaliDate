@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_s">%ds</string>
+    <string name="_m">%dm</string>
+    <string name="_h">%dh</string>
+    <string name="_d">%dd</string>
+    <string name="now">now</string>
+    <string name="ago">ago</string>
+    <string name="just_now">Just Now</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_a_date">Select a Date</string>
+    <string name="submit">Submit</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_second">
+        <item quantity="one">एक सेकेन्ड</item>
+        <item quantity="other">%d सेकेन्ड</item>
+    </plurals>
+
+    <plurals name="_minute">
+        <item quantity="one">एक मिनेट</item>
+        <item quantity="other">%d मिनेट</item>
+    </plurals>
+
+    <plurals name="_hour">
+        <item quantity="one">एक घण्टा</item>
+        <item quantity="other">%d घण्टा</item>
+    </plurals>
+
+    <plurals name="_day">
+        <item quantity="one">एक दिन</item>
+        <item quantity="other">%d दिन</item>
+    </plurals>
+
+    <plurals name="_month">
+        <item quantity="one">एक महिना</item>
+        <item quantity="other">%d महिना</item>
+    </plurals>
+
+    <plurals name="_year">
+        <item quantity="one">एक वर्ष</item>
+        <item quantity="other">%d वर्ष</item>
+    </plurals>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_second">
+        <item quantity="one">a second</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+
+    <plurals name="_minute">
+        <item quantity="one">a minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+
+    <plurals name="_hour">
+        <item quantity="one">an hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+
+    <plurals name="_day">
+        <item quantity="one">a day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+
+    <plurals name="_month">
+        <item quantity="one">a month</item>
+        <item quantity="other">%d months</item>
+    </plurals>
+
+    <plurals name="_year">
+        <item quantity="one">a year</item>
+        <item quantity="other">%d years</item>
+    </plurals>
+</resources>

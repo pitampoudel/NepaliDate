@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ad_month_names">
+        <item>…</item>
+        <item>जनवरी</item>
+        <item>फेब्रुअरी</item>
+        <item>मार्च</item>
+        <item>अप्रिल</item>
+        <item>मे</item>
+        <item>जून</item>
+        <item>जुलाई</item>
+        <item>अगस्त</item>
+        <item>सेप्टेम्बर</item>
+        <item>अक्टुबर</item>
+        <item>नोभेम्बर</item>
+        <item>डिसेम्बर</item>
+    </array>
+    <array name="bs_month_names">
+        <item>…</item>
+        <item>वैशाख</item>
+        <item>जेठ</item>
+        <item>आषाढ़</item>
+        <item>श्रावण</item>
+        <item>भाद्र</item>
+        <item>आश्विन</item>
+        <item>कार्तिक</item>
+        <item>मंसिर</item>
+        <item>पौष</item>
+        <item>माघ</item>
+        <item>फागुन</item>
+        <item>चैत्र</item>
+    </array>
+</resources>
